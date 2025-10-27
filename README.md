@@ -1,36 +1,36 @@
-# 👋 Xin chào, mình là Bybumravy!
+# 👋 Hello, I'm Hà Vy!
 
-## 🚀 Giới thiệu bản thân
-- Sinh viên đại học, từng là thành viên đội tuyển Tin học cấp 3.
-- Đam mê công nghệ, thích khám phá các giải pháp AI và phát triển web.
-- Thành thạo các ngôn ngữ: **C++, Python, Java, TypeScript**.
-- Hàng ngày luyện tập thuật toán và cập nhật công nghệ mới.
+## 🚀 About Me
+- University student, former member of the High School Informatics Team.
+- Passionate about technology, especially exploring AI solutions and web development.
+- Proficient in **C++, Python, Java, TypeScript**.
+- Practice algorithms daily and keep up with the latest tech trends.
 
-## 🏆 Kinh nghiệm & Dự án nổi bật
+## 🏆 Experience & Highlighted Projects
 
-### 1️⃣ Website cho sinh viên thuê trọ
-- **Vai trò:** FrontEnd Developer
-- **Công nghệ:** HTML, CSS, JavaScript, framework hỗ trợ
-- **Mô tả:** Xây dựng giao diện web giúp sinh viên tìm và thuê phòng trọ dễ dàng.
+### 1️⃣ Student Rental Website
+- **Role:** FrontEnd Developer
+- **Tech stack:** HTML, CSS, JavaScript, supporting frameworks
+- **Description:** Built a user-friendly web interface to help students easily find and rent accommodations.
 
-### 2️⃣ Website luyện thi IELTS (Leader)
-- **Vai trò:** Leader, Architect, AI Developer
-- **Công nghệ:** AI, phân tích âm thanh, Database, thiết kế giao diện
-- **Mô tả:**  
-  - Ứng dụng AI và phần mềm phân tích âm thanh để chấm kỹ năng **Speaking** và **Writing**.
-  - Thiết kế hệ thống database, phân chia công việc nhóm và quản lý tiến độ.
-  - Kết hợp kinh nghiệm dựng prompt để training AI giúp nâng cao chất lượng chấm điểm.
+### 2️⃣ IELTS Practice Website (Leader)
+- **Role:** Leader, Architect, AI Developer
+- **Tech stack:** AI, audio analysis, database, UI design
+- **Description:**  
+  - Applied AI and audio analysis software to assess **Speaking** and **Writing** skills.
+  - Designed the database system, delegated tasks, and managed team progress.
+  - Leveraged prompt engineering experience to train AI and improve scoring quality.
 
-## 👨‍💻 Kinh nghiệm làm việc
-- **BKACAD (Học viện Công nghệ BKACAD):** Phát triển dự án AI, học hỏi kỹ năng dựng prompt cho AI, áp dụng hiệu quả vào các dự án thực tế.
+## 👨‍💻 Work Experience
+- **BKACAD (BKACAD Technology Academy):** AI project development, learned prompt engineering for AI, and successfully applied it to real-world projects.
 
-## 💡 Sở thích & Định hướng
-- Thích thử nghiệm, học hỏi công nghệ mới mỗi ngày.
-- Đam mê giải thuật toán và phát triển ứng dụng AI thực tiễn.
+## 💡 Interests & Career Direction
+- Love experimenting and learning new technologies every day.
+- Passionate about solving algorithms and building practical AI applications.
 
 ---
 
-<!-- Social Links: Cập nhật nếu bạn cung cấp -->
+<!-- Social Links: Update if you have any -->
 <!-- ![Your Banner Image](link_to_banner) -->
 
 <!--

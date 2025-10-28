@@ -1,7 +1,6 @@
 # 👋 Hello, I'm Hà Vy!
 
 ## 🚀 About Me
-- University student, former member of the High School Informatics Team.
 - Passionate about technology, especially exploring AI solutions and web development.
 - Proficient in **C++, Python, Java, TypeScript**.
 - Practice algorithms daily and keep up with the latest tech trends.

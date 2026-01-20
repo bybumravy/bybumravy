@@ -19,10 +19,22 @@
   - Applied AI and audio analysis software to assess **Speaking** and **Writing** skills.
   - Designed the database system, delegated tasks, and managed team progress.
   - Leveraged prompt engineering experience to train AI and improve scoring quality.
-
+### 3️⃣ Lucky Wheel Web App
+- **Role:** FrontEnd Developer
+- **Tech stack:** TypeScript, React
+- **Description:**  
+  - Developed a high-speed spinning lucky wheel with optimized rotation speed.
+  - Integrated a quiz-based mechanism where users must answer questions to flip cards or unlock rewards.
+  - Focused on smooth animations, interactive logic, and enhanced user engagement.
+### 4️⃣ Personal Portfolio Website
+- **Role:** FrontEnd Developer
+- **Tech stack:** TypeScript, React
+- **Description:**  
+  - Built a frontend-only personal portfolio website to showcase projects, skills, and GitHub activities.
+  - Focused on clean UI design, responsive layout, and smooth user interactions.
 ## 👨‍💻 Work Experience
 - **BKACAD (BKACAD Technology Academy):** AI project development, learned prompt engineering for AI, and successfully applied it to real-world projects.
-
+- **Teaching Assistant – Basic Programming Course:** Assisted in teaching basic coding concepts and algorithms to beginners.
 ## 💡 Interests & Career Direction
 - Love experimenting and learning new technologies every day.
 - Passionate about solving algorithms and building practical AI applications.
